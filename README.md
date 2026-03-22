@@ -9,6 +9,12 @@ Public Education Resources for Homeschoolers in North Carolina
 
 This repository is a dataset of 394 publicly-available policies collected from federal, state, and local education agencies regarding public education resources and homeschooled students in North Carolina in 2025. Policy documents were found from federal, state, and 115 local education agency webpages and within school board policies. Within these 394 documents, there are 484 policies regarding an array of resources.
 
+### Dataset
+
+Github view: [PERCs4HSNC 2025.csv](./PERCs4HSNC%202025.csv) 
+
+Raw download: [PERCs4HSNC 2025.csv](https://github.com/christybatts/PERCs4homeschoolersinNC/raw/refs/heads/main/PERCs4HSNC%202025.csv)
+
 
 ### Columns
 
